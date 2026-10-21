@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "GW RIFAT BOT",
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "blackheartsmps4BD.aternos.me",
+    "port": 47838,
     "version": "1.20.1",
     "try-creative": false
   },
